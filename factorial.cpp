@@ -21,7 +21,7 @@ main(){
 		fact=fact*i;
 		i++;
 	}
-	
+	//aca va el resultado
 	printf("\nEl factorial es %d"  ,fact );
 	
 }
